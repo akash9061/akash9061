@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akash9061
+- 👋 Hi, I’m @akash.m
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently working as a Network Engineering in Smartnet Informatics kochi.
 - 💞️ I’m looking to collaborate on ...
