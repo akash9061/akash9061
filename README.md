@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash9061
 - 👀 I’m interested in Computer Engineering
-- 🌱 I’m currently learning Network Engineering
+- 🌱 I’m currently working as a Network Engineering in Smartnet Informatics kochi.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akashakashm1111@gmail.com- 😄 Pronouns: akash9061
 - ⚡ Fun fact: ...
